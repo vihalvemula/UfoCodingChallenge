@@ -137,7 +137,7 @@ fun UfoSightingItem(
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .padding(horizontal = 16.dp, vertical = 10.dp),
+                .padding(horizontal = 17.dp, vertical = 10.dp),
             verticalAlignment = Alignment.Top
         ) {
 
