@@ -194,10 +194,7 @@ fun UfoSightingItem(
 
             }
         }
-        Spacer(modifier = Modifier.height(20.dp))
-=======
         Spacer(modifier = Modifier.height(17.dp))
->>>>>>> origin/main
         HorizontalDivider()
     }
     Spacer(modifier = Modifier.height(0.dp))
