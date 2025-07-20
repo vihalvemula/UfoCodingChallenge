@@ -21,3 +21,5 @@ class UfoRepositoryImpl @Inject constructor() : UfoRepository {
         sightings.value = sightings.value.filterNot { it.id == id }
     }
 }
+
+//////////
